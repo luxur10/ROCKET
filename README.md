@@ -1,2 +1,2 @@
-# ROCKET
-Equipo para el hackathon de Nasa Space Apps Challege 
+# EQUIPO ROCKET
+## Equipo para el hackathon de Nasa Space Apps Challege 
