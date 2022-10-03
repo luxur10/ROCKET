@@ -43,6 +43,9 @@ Pueden ver la propuesta del funcionamieno del videojuego en el siguiente enlace:
 
 
 
+## Prototipo
+Utilizando Python y la libreria Ursina logramos desarrollar un prototipo funcional del proyecto mismo que puedes encontrar en el siguiente enlace: [Prototipo Funcional](https://drive.google.com/file/d/18GZtK8YS1SVLKd62_-2onxvnR4_KKJ3K/view?usp=sharing)
+
 ## Referencias
 - [Encuesta Lego](https://decoracion.trendencias.com/dormitorio/85-ninos-esta-interesado-espacio-estudio-lego)
 - NASA, [First Image of a Black Hole](https://solarsystem.nasa.gov/resources/2319/first-image-of-a-black-hole/)
