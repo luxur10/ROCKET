@@ -46,9 +46,7 @@ Pueden ver la propuesta del funcionamieno del videojuego en el siguiente enlace:
 ## Prototipo
 Utilizando Python y la libreria Ursina logramos desarrollar un prototipo funcional del proyecto mismo que puedes encontrar en el siguiente enlace: [Prototipo Funcional](https://drive.google.com/file/d/18GZtK8YS1SVLKd62_-2onxvnR4_KKJ3K/view?usp=sharing)
 
-![Video_game](imagenes/juego.jpeg)
-
-El progrma y todos los recursos necesarios para su correcto funcionamiento se encuentran aqui: [CARPETA](https://github.com/luxur10/ROCKET/tree/main/JUEGO)
+[Video_game](imagenes/juego.jpeg)
 
 ## Referencias
 - [Encuesta Lego](https://decoracion.trendencias.com/dormitorio/85-ninos-esta-interesado-espacio-estudio-lego)
@@ -57,3 +55,4 @@ El progrma y todos los recursos necesarios para su correcto funcionamiento se en
 - NASA, [James Webb Space Telescope](https://www.nasa.gov/mission_pages/webb/main/index.html)
 - [Pixel It](https://giventofly.github.io/pixelit/)
 - [Ursina](https://github.com/pokepetter/ursina.git)
+- National Geographi, [Launch of the James Webb telescope](https://www.nationalgeographicla.com/ciencia/2021/12/se-lanzo-el-telescopio-espacial-james-webb-el-mas-potente-de-la-historia)
