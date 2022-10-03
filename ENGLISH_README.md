@@ -48,7 +48,7 @@ Using Python and the Ursina library we managed to develop a functional prototype
 
 ![Video_game](imagenes/juego.jpeg)
 
-The program and all the necessary resources for its operation can be found in the following link: [Files](https://github.com/luxur10/ROCKET/tree/main/JUEGO)
+The Python code and all the necessary resources for its operation can be found in the following link: [Files](https://github.com/luxur10/ROCKET/tree/main/JUEGO)
 
 ## Referencias
 - [Lego Survey](https://decoracion.trendencias.com/dormitorio/85-ninos-esta-interesado-espacio-estudio-lego)
