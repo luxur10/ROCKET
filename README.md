@@ -15,10 +15,12 @@
 
 - **"Según una encuesta de Harris Poll y LEGO realizada en Estados Unidos, Reino Unido y China, el 86% de los niños de entre 8 y 12 años de edad dicen estar interesados en la exploración espacial y el 90% de ellos quiere aprender más."**
 - **"Perooo ¿Cuantos de esos niños son capaces de leer un articulo cientifico?"**
-- **"Si sabemos que aproximadamente un 56% de los jovenes leen por gusto y el lenguaje utilizado en los articulos cientificos es de dificil comprención para un niño o adolescente"**
-
+- **"Si sabemos que unicamente el 56% de los jovenes leen por gusto y el lenguaje utilizado en los articulos cientificos es de dificil comprención para un niño o adolescente"**
+- **"Además  un 2% de los niños cree que la primera persona en caminar sobre la luna fue Buzz Lightyear."**
+![datos](imagenes/Pitch_juegoJamesWebbOdyssey/Diapositiva2.JPG)
 
 ## Referencias
+- [Encuesta Lego](https://decoracion.trendencias.com/dormitorio/85-ninos-esta-interesado-espacio-estudio-lego)
 - NASA, [First Image of a Black Hole](https://solarsystem.nasa.gov/resources/2319/first-image-of-a-black-hole/)
 - NASA, [Hubble Space Telescope](https://www.nasa.gov/mission_pages/hubble/main/index.html)
 - NASA, [James Webb Space Telescope](https://www.nasa.gov/mission_pages/webb/main/index.html)
