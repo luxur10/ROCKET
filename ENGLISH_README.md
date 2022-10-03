@@ -1,7 +1,7 @@
 # EQUIPO ROCKET
 ## **Challenge:** [LEARNING THROUGH THE LOOKING GLASS](https://2022.spaceappschallenge.org/challenges/2022-challenges/through-the-looking-glass/details)
 
-## Equipo para el hackathon de Nasa Space Apps Challege 
+## Team for the Nasa Space Apps Challege 2022
 - Juan Rivera Vargas
 - Christopher Malagon Escutia
 - Luis Angel Anguiano Muñiz
@@ -12,39 +12,39 @@
 
 ![Equipo](imagenes/Equipo.jpeg)
 
-## Desarrollo del Proyecto
+## Project Development
 
 ![portada](imagenes/Pitch_juegoJamesWebbOdyssey/Diapositiva1.JPG)
 
-- **"Según una encuesta de Harris Poll y LEGO realizada en Estados Unidos, Reino Unido y China, el 86% de los niños de entre 8 y 12 años de edad dicen estar interesados en la exploración espacial y el 90% de ellos quiere aprender más."**
-- **"Perooo ¿Cuantos de esos niños son capaces de leer un articulo cientifico?"**
-- **"Si sabemos que unicamente el 56% de los jovenes leen por gusto y el lenguaje utilizado en los articulos cientificos es de dificil comprención para un niño o adolescente"**
-- **"Además  un 2% de los niños cree que la primera persona en caminar sobre la luna fue Buzz Lightyear."**
+- **"According to a Harris Poll and LEGO survey conducted in the United States, United Kingdom and China, 86% of children between 8 and 12 years of age say they are interested in space exploration and 90% of them want to learn more."**
+- **"But how many of those children are able to read a scientific article?"**
+- **"If we know that only 56% of young people read for pleasure and the language used in scientific articles is difficult to understand for a child or adolescent"**
+- **"In addition, 2% of children believe that the first person to walk on the moon was Buzz Lightyear."**
 
 ![datos](imagenes/Pitch_juegoJamesWebbOdyssey/Diapositiva2.JPG)
 
 
-Nuestro desafio consiste en realizar un videojuego divertido para mostrar las capacidades del Telescopio J.W, nuestra idea de solución la comenzamos a desarrollar como un concepto de juego 2D ya que es más sencillo de realizar en comparación con un desarrollo 3D y utilizamos el lenguage de programación Python, especificamente la libreria **Ursina**
+Our challenge is to make a fun video game to show the capabilities of the J.W Telescope, our idea of solution we began to develop as a 2D game concept since it is easier to perform compared to a 3D development and we use the Python programming language, specifically the **Ursina** library 
 
 ![desarrollo](imagenes/Pitch_juegoJamesWebbOdyssey/Diapositiva4.JPG)
 
-El objetivo de nuestro proyecto es incentivar a las y los jovenes a aprender sobre la exploración espacial de una forma dinamica y divertida porque el aprendizaje no esta peleado con la diversión.
+The objective of our project is to encourage young people to learn about space exploration in a dynamic and fun way because learning is not fought with fun.
 
 ![incentivar](imagenes/Pitch_juegoJamesWebbOdyssey/Diapositiva5.JPG)
 
-Nuestra forma de incluir noticias o datos sobre descubrimientos que se han hecho con el Telescopio Espacial James Webb es utilizando ventanas emergentes en el videojuego como la que se muestra a continución.
+Our way of including news or data about discoveries that have been made with the James Webb Space Telescope is by using pop-ups in the game like the one shown below.
 
 ![incentivar](imagenes/Pitch_juegoJamesWebbOdyssey/Diapositiva6.JPG)
 
-El concepto final de juego que proponemos es **JAMES WEBB ODYSSEY:** un videojuego dirigido a niños y adolescentes para que aprendan sobre las increibles capacidades del Telescopio J.W mientras se divierten *explorando el espacio exterior, esquivando cometas y descubriendo nuevos cuerpos celestes.*
-Pueden ver la propuesta del funcionamieno del videojuego en el siguiente enlace: [DEMOSTRACION](https://drive.google.com/file/d/1dl9AsqIF_nlSN5OrzdpbXx-cbWNE1Wzt/view?usp=sharing)
+The final game concept we propose is **JAMES WEBB ODYSSEY:** a video game aimed at children and teenagers to learn about the incredible capabilities of the J.W Telescope while having fun *exploring outer space, dodging comets and discovering new celestial bodies.*
+You can see the proposal of the video game functioning in the following link: [DEMOSTRACION](https://drive.google.com/file/d/1dl9AsqIF_nlSN5OrzdpbXx-cbWNE1Wzt/view?usp=sharing)
 
 ![incentivar](imagenes/Pitch_juegoJamesWebbOdyssey/Diapositiva3.JPG)
 
 
 
 ## Prototipo
-Utilizando Python y la libreria Ursina logramos desarrollar un prototipo funcional del proyecto mismo que puedes encontrar en el siguiente enlace: [Prototipo Funcional](https://drive.google.com/file/d/18GZtK8YS1SVLKd62_-2onxvnR4_KKJ3K/view?usp=sharing)
+Using Python and the Ursina library we managed to develop a functional prototype of the project itself that you can find in the following link: [Functional Prototype](https://drive.google.com/file/d/18GZtK8YS1SVLKd62_-2onxvnR4_KKJ3K/view?usp=sharing)
 
 ## Referencias
 - [Encuesta Lego](https://decoracion.trendencias.com/dormitorio/85-ninos-esta-interesado-espacio-estudio-lego)
