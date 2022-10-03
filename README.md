@@ -2,10 +2,12 @@
 ## **Challenge:** [LEARNING THROUGH THE LOOKING GLASS](https://2022.spaceappschallenge.org/challenges/2022-challenges/through-the-looking-glass/details)
 
 ## Equipo para el hackathon de Nasa Space Apps Challege 
-- Erick
-- Luis
-- Ivan
-- Cristo
+- Juan Rivera Vargas
+- Christopher Malagon Escutia
+- Luis Angel Anguiano Muñiz
+- Francisco Iván Acevedo Colunga
+- Erick Eduardo Acevedo Colunga
+- Luis Ricardo Lara Romo
 ![Equipo](imagenes/Equipo.jpeg)
 
 
