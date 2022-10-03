@@ -11,6 +11,7 @@
 ![Equipo](imagenes/Equipo.jpeg)
 
 ## Desarrollo del Proyecto
+![portada](imagenes/Pitch_juegoJamesWebbOdyssey/Diapositiva1.JPG)
 
 - **"Según una encuesta de Harris Poll y LEGO realizada en Estados Unidos, Reino Unido y China, el 86% de los niños de entre 8 y 12 años de edad dicen estar interesados en la exploración espacial y el 90% de ellos quiere aprender más."**
 - **"Perooo ¿Cuantos de esos niños son capaces de leer un articulo cientifico?"**
