@@ -6,7 +6,7 @@
 - Luis
 - Ivan
 - Cristo
-
+![Equipo](imagenes/Equipo.jpeg)
 
 
 
