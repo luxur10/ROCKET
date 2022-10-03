@@ -57,3 +57,4 @@ The Python code and all the necessary resources for its operation can be found i
 - NASA, [James Webb Space Telescope](https://www.nasa.gov/mission_pages/webb/main/index.html)
 - [Pixel It](https://giventofly.github.io/pixelit/)
 - [Ursina](https://github.com/pokepetter/ursina.git)
+- National Geographic, [Launch of the James Webb telescope](https://www.nationalgeographicla.com/ciencia/2021/12/se-lanzo-el-telescopio-espacial-james-webb-el-mas-potente-de-la-historia)
