@@ -1,4 +1,4 @@
-# EQUIPO ROCKET
+# TEAM ROCKET
 ## **Challenge:** [LEARNING THROUGH THE LOOKING GLASS](https://2022.spaceappschallenge.org/challenges/2022-challenges/through-the-looking-glass/details)
 
 ## Team for the Nasa Space Apps Challege 2022
