@@ -32,6 +32,17 @@ El objetivo de nuestro proyecto es incentivar a las y los jovenes a aprender sob
 
 ![incentivar](imagenes/Pitch_juegoJamesWebbOdyssey/Diapositiva5.JPG)
 
+Nuestra forma de incluir noticias o datos sobre descubrimientos que se han hecho con el Telescopio Espacial James Webb es utilizando ventanas emergentes en el videojuego como la que se muestra a continución.
+
+![incentivar](imagenes/Pitch_juegoJamesWebbOdyssey/Diapositiva6.JPG)
+
+El concepto final de juego que proponemos es **JAMES WEBB ODYSSEY:** un videojuego dirigido a niños y adolescentes para que aprendan sobre las increibles capacidades del Telescopio J.W mientras se divierten *explorando el espacio exterior, esquivando cometas y descubriendo nuevos cuerpos celestes.*
+Pueden ver la propuesta del funcionamieno del videojuego en el siguiente enlace: [DEMOSTRACION](https://drive.google.com/file/d/1dl9AsqIF_nlSN5OrzdpbXx-cbWNE1Wzt/view?usp=sharing)
+
+![incentivar](imagenes/Pitch_juegoJamesWebbOdyssey/Diapositiva3.JPG)
+
+
+
 ## Referencias
 - [Encuesta Lego](https://decoracion.trendencias.com/dormitorio/85-ninos-esta-interesado-espacio-estudio-lego)
 - NASA, [First Image of a Black Hole](https://solarsystem.nasa.gov/resources/2319/first-image-of-a-black-hole/)
