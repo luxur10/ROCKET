@@ -37,17 +37,17 @@ Our way of including news or data about discoveries that have been made with the
 ![incentivar](imagenes/Pitch_juegoJamesWebbOdyssey/Diapositiva6.JPG)
 
 The final game concept we propose is **JAMES WEBB ODYSSEY:** a video game aimed at children and teenagers to learn about the incredible capabilities of the J.W Telescope while having fun *exploring outer space, dodging comets and discovering new celestial bodies.*
-You can see the proposal of the video game functioning in the following link: [DEMOSTRACION](https://drive.google.com/file/d/1dl9AsqIF_nlSN5OrzdpbXx-cbWNE1Wzt/view?usp=sharing)
+You can see the proposal of the video game functioning in the following link: [DEMONSTRATION](https://drive.google.com/file/d/1dl9AsqIF_nlSN5OrzdpbXx-cbWNE1Wzt/view?usp=sharing)
 
 ![incentivar](imagenes/Pitch_juegoJamesWebbOdyssey/Diapositiva3.JPG)
 
 
 
-## Prototipo
+## Prototype
 Using Python and the Ursina library we managed to develop a functional prototype of the project itself that you can find in the following link: [Functional Prototype](https://drive.google.com/file/d/18GZtK8YS1SVLKd62_-2onxvnR4_KKJ3K/view?usp=sharing)
 
 ## Referencias
-- [Encuesta Lego](https://decoracion.trendencias.com/dormitorio/85-ninos-esta-interesado-espacio-estudio-lego)
+- [Lego Survey](https://decoracion.trendencias.com/dormitorio/85-ninos-esta-interesado-espacio-estudio-lego)
 - NASA, [First Image of a Black Hole](https://solarsystem.nasa.gov/resources/2319/first-image-of-a-black-hole/)
 - NASA, [Hubble Space Telescope](https://www.nasa.gov/mission_pages/hubble/main/index.html)
 - NASA, [James Webb Space Telescope](https://www.nasa.gov/mission_pages/webb/main/index.html)
