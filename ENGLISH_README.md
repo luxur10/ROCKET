@@ -46,7 +46,7 @@ You can see the proposal of the video game functioning in the following link: [D
 ## Prototype
 Using Python and the Ursina library we managed to develop a functional prototype of the project itself that you can find in the following link: [Functional Prototype](https://drive.google.com/file/d/18GZtK8YS1SVLKd62_-2onxvnR4_KKJ3K/view?usp=sharing)
 
-[Video_game](imagenes/juego.jpeg)
+![Video_game](imagenes/juego.jpeg)
 
 ## Referencias
 - [Lego Survey](https://decoracion.trendencias.com/dormitorio/85-ninos-esta-interesado-espacio-estudio-lego)
