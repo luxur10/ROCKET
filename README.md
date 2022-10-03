@@ -46,7 +46,9 @@ Pueden ver la propuesta del funcionamieno del videojuego en el siguiente enlace:
 ## Prototipo
 Utilizando Python y la libreria Ursina logramos desarrollar un prototipo funcional del proyecto mismo que puedes encontrar en el siguiente enlace: [Prototipo Funcional](https://drive.google.com/file/d/18GZtK8YS1SVLKd62_-2onxvnR4_KKJ3K/view?usp=sharing)
 
-[Video_game](imagenes/juego.jpeg)
+![Video_game](imagenes/juego.jpeg)
+
+El programa y todos los recursos necesarios para su funcionamiento los puedes encontrar en el siguiente enlace: [Archivos](https://github.com/luxur10/ROCKET/tree/main/JUEGO)
 
 ## Referencias
 - [Encuesta Lego](https://decoracion.trendencias.com/dormitorio/85-ninos-esta-interesado-espacio-estudio-lego)
