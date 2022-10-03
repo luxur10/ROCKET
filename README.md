@@ -57,4 +57,4 @@ El programa y todos los recursos necesarios para su funcionamiento los puedes en
 - NASA, [James Webb Space Telescope](https://www.nasa.gov/mission_pages/webb/main/index.html)
 - [Pixel It](https://giventofly.github.io/pixelit/)
 - [Ursina](https://github.com/pokepetter/ursina.git)
-- National Geographi, [Launch of the James Webb telescope](https://www.nationalgeographicla.com/ciencia/2021/12/se-lanzo-el-telescopio-espacial-james-webb-el-mas-potente-de-la-historia)
+- National Geographic, [Launch of the James Webb telescope](https://www.nationalgeographicla.com/ciencia/2021/12/se-lanzo-el-telescopio-espacial-james-webb-el-mas-potente-de-la-historia)
